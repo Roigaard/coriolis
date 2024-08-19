@@ -2,10 +2,10 @@
 
 * Pick a group concept:
   * [Agents](./agents.md)
-  * Explorers
+  * [Explorers](explorers.md)
   * [Free Traders](./free-traders.md)
-  * Mercenaries
-  * Pilgrims
+  * [Mercenaries](mercenaries.md)
+  * [Pilgrims](./pilgrims.md)
 * Pick your spaceship.
   * See chapter 7 (pick pre-defined or make you own).
   * 50% of price is debt you owe to someone, e.g., Patron, Nemesis or some other NPC - your choice.

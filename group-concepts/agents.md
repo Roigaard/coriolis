@@ -19,20 +19,20 @@ Possible concepts (with sub-concepts) for PCs as a group of Agents:
 
 Patron/Nemesis ideas:
 
-* Captain Girrah (Judicator).<br/>
+* Captain Girrah (Judicator).</br>
 Completely loyal to the Governor of Coriolis, and prepared to counter any threat to the station, even if it means breaking the rules.
-* Jihvane Kourides (Special Branch of the Consortium).<br/>
+* Jihvane Kourides (Special Branch of the Consortium).</br>
 A field agent rising through the ranks who will stop at nothing to climb even higher.
-* Hiram “the Black Widow” Momasdi (Ahlam’s Black Lotuses).<br/>
+* Hiram “the Black Widow” Momasdi (Ahlam’s Black Lotuses).</br>
 An aged madam who is secretly an assassin, offering her customers anything but pleasure.
-* Nefrite Garroud (the Free League’s news division).<br/>
+* Nefrite Garroud (the Free League’s news division).</br>
 Wants to know everything that could affect the League’s activities in the Horizon.
 
 Group talents:
 
-* A FRIEND IN EVERY PORT <br/>
+* A FRIEND IN EVERY PORT </br>
 You can find a useful contact in a new place. The contact can protect you, lend you gear, or vouch for you with the local rulers. The GM gets 1 DP per use. One use per session for the whole group (not once per PC).
-* ASSASSIN’S GUILD<br/>
+* ASSASSIN’S GUILD</br>
 You can test infiltration instead of melee combat when you make a melee combat attack against an enemy who isn’t aware of you.
-* DANCERS OF AHLAM<br/>
+* DANCERS OF AHLAM</br>
 You can test dexterity instead of manipulation when trying to make a good impression.

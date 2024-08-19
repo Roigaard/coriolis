@@ -24,20 +24,20 @@ Possible character concepts (with sub-concepts) for PCs as a group of Free Trade
 
 Patron/Nemesis ideas:
 
-* Aldair Jubal (Jubal Imports & Exports).<br/>
+* Aldair Jubal (Jubal Imports & Exports).</br>
 A shady peddler from Djachroum, making sure the flow of spices, drugs and weapons continues.
-* Abdul Nasr (the Free League).<br/>
+* Abdul Nasr (the Free League).</br>
 A merchant specializing in technological artifacts, operating out of Ozone Plaza on Coriolis.
-* Lea Marhoun (Zenithian Trade Alliance).<br/>
+* Lea Marhoun (Zenithian Trade Alliance).</br>
 An antiques dealer from the Monolith, specializing in trade in artifacts and archaeological findings.
-* Mukhtar Sawalla (Hyperion Logistics).<br/>
+* Mukhtar Sawalla (Hyperion Logistics).</br>
 An agent of a Consortiumowned corporation, running bulk haulers all over the Horizon.
 
 Group talents:
 
-* A NOSE FOR BIRR<br/>
+* A NOSE FOR BIRR</br>
 When trading, you get a +2 to manipulation. One use per session for the whole group (not once per PC).
-* EVERYTHING IS FOR SALE<br/>
+* EVERYTHING IS FOR SALE</br>
 You have a knack for finding the most corrupt public servants, toll officers or guards, and always get a +2 to manipulation when you are bribing someone.
-* QUICKEST ROUTE<br/>
+* QUICKEST ROUTE</br>
 You find the quickest route. Travel takes half the time (page 138), or one encounter along the way may be ignored. The GM gets 1 DP per use. One use per journey.
