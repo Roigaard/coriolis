@@ -1,5 +1,7 @@
 # Character Creation
 
+[xp]:../character-improvement.md
+
 First, [determine the group concept](./group-concepts/creating-group.md).
 
 Then, each player creates a character for that group using the following steps:
@@ -14,27 +16,28 @@ Then, each player creates a character for that group using the following steps:
    3. Modify reputation (if needed)
    4. Select starting gear (free, does not cost money)
    5. Choose relationships to other PC.
-   6. Choose personal problem. The problem is a source of extra XP.
-   7. Choose one other PC to be your *Buddy*. The buddy is a source of extra XP.
+   6. Choose personal problem. The problem is a source of [XP][xp].
+   7. Choose one other PC to be your *Buddy*. The buddy is a source of [XP][xp].
 3. Distribute [attribute](../SkillsAndAttributes.md) points
    1. Normal human range is 1-5
    2. Must assign 2-4 points to each (5 for Concept attribute)
-4. Calcuate Hit Points (HP) and Mind Points (MP)
+4. Calcuate derived attributes
    1. HP = Strength + Agility
    2. MP = Wits + Empathy
+   3. Max encumbrance = 2 x Strength
 5. Distribute [Skill](../SkillsAndAttributes.md) points
    1. Normal human range is 0-5
    2. Must assign at most 1 point to each skill (3 to concept skills)
+   3. At least one skill point is required to use an *advanced* skill.
 6. Determine the [Icon](../Icons.md) under which you are born.
    1. Note *icon* talent on character sheet.
-   2. The icon is a source of extra XP.
+   2. The icon is a source of [XP][xp].
 7. Choose crew position.
 
 Lastly, choose a name.
 
-> Abdalar, Amirah, Havima, Iosop, Masruq, Sani, Asour, Barika, Fatma, Naim, Omran, Yaqub, Abbud, Ghazi, Inas, Jibril, Yarah, Zinah, Esam, Izzaldin, Minnah, Nada, Radwa, Ubaid
-
-
+> Abdalar, Amirah, Havima, Iosop, Masruq, Sani, Asour, Barika, Fatma, Naim, Omran, Yaqub, Abbud, Ghazi, Inas, Jibril, Yarah, Zinah, Esam, Izzaldin, Minnah, Nada, Radwa, Ubaid, Abidah, Kef, Shakir, Salah, Sorbul, Waga, Dhakir, Dunyana, Ghazalah, Hanbal, Ithar,
+Nadir
 
 ## Background
 
@@ -77,45 +80,3 @@ Concepts and subsconcepts:
 * SCIENTIST – Archaeologist, Medicurg, Technician
 * SHIP WORKER – Deckhand, Dock Worker, Engineer
 * SOLDIER – Legionnaire, Mercenary, Officer
-
-## Distribute skill levels
-
-Skills are divided into two groups: general and advanced
-
-* You can always roll dice for a general skill even if your skill level is zero
-* To use an advanced skill, you need at least a skill level of 1.
-
-Skills are measured on scale of 0-5
-
-| Level | Proficiency |
-| ----- | ----------- |
-| 0     | None        |
-| 1     | Novice      |
-| 2     | Capable     |
-| 3     | Competent   |
-| 4     | Experienced |
-| 5     | Master      |
-
-The skills are
-
-GENERAL SKILLS
-
-* DEXTERITY (Agility)
-* FORCE (Strength)
-* INFILTRATION (Agility)
-* MANIPULATION (Empathy)
-* MELEE COMBAT (Strength)
-* OBSERVATION (Wits)
-* RANGED COMBAT (Agility)
-* SURVIVAL (Wits)
-
-ADVANCED SKILLS
-
-* COMMAND (Empathy)
-* CULTURE (Empathy)
-* DATA DJINN (Wits)
-* MEDICURGY (Wits)
-* MYSTIC POWERS (Empathy)
-* PILOT (Agility)
-* SCIENCE (Wits)
-* TECHNOLOGY (Wits)

@@ -30,7 +30,7 @@ you are a rebel prophet, a statistician at the
 Sadaal Institute of Planning, or an ad djinn at a
 Consortium firm.
 
-* Concept Skills: 
+* Concept Skills: Data Djinn, Force, Manipulation, Culture
 
 ### DIPLOMAT
 
@@ -42,7 +42,7 @@ the personal ambassador of a wealthy family. Less
 glamorous jobs like customs officer or bureaucrat
 are also possible.
 
-* Concept Skills:
+* Concept Skills: Command, Culture, Manipulation, Melee Combat
 
 ### PEDDLER
 
@@ -54,7 +54,7 @@ import mogul, or the dabra of a souk. Or you could
 be working from the shadows as a smuggler or a
 fence for the Syndicate.
 
-* Concept Skills:
+* Concept Skills: Culture, Manipulation, Observation, Pilot
 
 ## PERSONAL PROBLEM
 
