@@ -1,8 +1,23 @@
 # Gear
 
+<!-- vscode-markdown-toc -->
+* 1. [Tech Tiers](#TechTiers)
+* 2. [Melee Weapons](#MeleeWeapons)
+* 3. [TABLE 6.10 RANGED WEAPONS](#TABLE6.10RANGEDWEAPONS)
+* 4. [TABLE 6.12 EXPLOSIVES AND GRENADES](#TABLE6.12EXPLOSIVESANDGRENADES)
+* 5. [TABLE 6.14 ARMOR AND SHIELDS](#TABLE6.14ARMORANDSHIELDS)
+* 6. [Weapon Features](#WeaponFeatures)
+* 7. [ARMOR FEATURES](#ARMORFEATURES)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
 The currency in the Third Horizon is called the birr. Your upbringing (see above) determines how many birr you start the game with, along with your starting gear. Transactions involving birr are mostly handled electronically, using so-called tags.
 
-## Tech Tiers
+##  1. <a name='TechTiers'></a>Tech Tiers
 
 | Tech           | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,17 +28,7 @@ The currency in the Third Horizon is called the birr. Your upbringing (see above
 | PORTAL BUILDER | Relics from the Portal Builders and other old artifacts are only understood by a few people in the Horizon. Both the Foundation and the Special Branch are rumored to have cracked some of the secrets of the Portal Builders. For common people, only the light globes and the healing scarabs are available, but very expensive. The PCs will most likely not know any more about artifacts than this, unless they are professional archaeologists.                                                                                                                       |
 | Restricted (*) | Restricted gear can only be purchased by PCs with the Licensed talent (see Chapter 4). Without the proper licenses, purchasing, using and producing weapons is illegal in the civilized parts of the Horizon. Without a license (or the talent Licensed, page 73), you can only obtain weapons and armor illegally through contacts in the right places or factions. Licenses purchased on Coriolis will be valid in affiliated places as well, with some local variations. Most space ports and portal stations have sensor equipment that scan for weapons and contraband |
 
-## Encumbrance/Weight
-
-Generally, you can carry a number of items equal to your Strength doubled. Note down one object per row on your character sheet.
-
-* tiny (T) take up no rows at all. A good rule of thumb is, if the item can be concealed in a closed fist, it is tiny.
-* Light objects (L) need only half a row on your gear list
-* heavy objects (H) need two rows
-
-Overencumbered: You can temporarily carry more than your normal load. If you do though, you must roll the Force skill each time you attempt to move any long distance. If you fail the roll you must either let go of what you are carrying, or stop where you are.
-
-## Melee Weapons
+##  2. <a name='MeleeWeapons'></a>Melee Weapons
 
 * Power weapons have hydraulic pistons that activate on impact for increased damage.
 * Dura weapons have vibrating blades made from duralite that give them better cutting capabilities.
@@ -83,7 +88,7 @@ Overencumbered: You can temporarily carry more than your normal load. If you do 
 | Spear          | +1    | +2   | 2      | 2    | Close | Long     | P         |  200 |
 | Whip           | 0     | +2   | 1      | 4    | Close | Flexible | P         |   50 |
 
-## TABLE 6.10 RANGED WEAPONS
+##  3. <a name='TABLE6.10RANGEDWEAPONS'></a>TABLE 6.10 RANGED WEAPONS
 
 Vulcan weapons fire tiny rockets with explosive heads. Firing and reloading is mechanical and the weapons require no cells. Vulcan weapons have a low recoil to enable steady automatic fire. As they are easily pirated, they are common everywhere in the Horizon, and so is the ammunition.
 Partisans, rebels, and explorers all use Vulcan weapons, often adorned with mythological or traditional images and patterns. Apart from the explosive rounds, homing and vibrating ammunition is also available, and come with cells built into special magazines.
@@ -168,7 +173,7 @@ Regular missile systems in the Horizon are mass-produced for military groups and
 | Harpoon        | +1    | +1   | 2         | 3         | Short | Heavy, Single-shot | P    |   200 |
 | Combat bow     | +1    | +1   | 3/Grenade | 2/Grenade | Long  | Single-shot        | O    | 2,000 |
 
-## TABLE 6.12 EXPLOSIVES AND GRENADES
+##  4. <a name='TABLE6.12EXPLOSIVESANDGRENADES'></a>TABLE 6.12 EXPLOSIVES AND GRENADES
 
 | EXPLOSIVE     | BONUS | INIT | BLAST POWER | DAMAGE | CRIT | RADIUS | TECH TIER | COST   | WEIGHT       | Target                      |
 | ------------- | ----- | ---- | ----------- | ------ | ---- | ------ | --------- | ------ | ------------ | --------------------------- |
@@ -189,7 +194,7 @@ Regular missile systems in the Horizon are mass-produced for military groups and
 | Thermal grenade      | 0     | 0    | 6            | 1      | 1    | Close  | Fire 2                    | A*        | 2,000  | Light  |
 | Thermobaric grenade  | 0     | 0    | 9            | 1      | 1    | Short  | Fire 3                    | A*        | 4,000  | Light  |
 
-## TABLE 6.14 ARMOR AND SHIELDS
+##  5. <a name='TABLE6.14ARMORANDSHIELDS'></a>TABLE 6.14 ARMOR AND SHIELDS
 
 | ARMOR                 | ARMOR RATING | FEATURES                                                                                                                                                | #EXTRA FEATURES | TECH TIER | COST   |
 | --------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------- | ------ |
@@ -211,7 +216,7 @@ Regular missile systems in the Horizon are mass-produced for military groups and
 | Riot shield   | 4            | Heavy    | O         | 500  |
 | Combat shield | 6            | Heavy    | O         | 800  |
 
-## Weapon Features
+##  6. <a name='WeaponFeatures'></a>Weapon Features
 
 | Feature        | Effect                                                                                                                                                                                                                                              |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -234,7 +239,7 @@ Regular missile systems in the Horizon are mass-produced for military groups and
 | Stun           | means that the weapon inflicts stress instead of damage.                                                                                                                                                                                            |
 | Thermal        | sweep means that the weapon can fire a continuous thermal beam that can be swept across several enemies. This works like automatic fire above.                                                                                                      |
 
-## ARMOR FEATURES
+##  7. <a name='ARMORFEATURES'></a>ARMOR FEATURES
 
 | Feature               | Effect                                                                                                                                               |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |

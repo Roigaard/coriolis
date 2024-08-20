@@ -16,6 +16,9 @@
   * Side effect of very successful Skill Checks
   * Weapons. If claimed, *must* attack with weapon or perform *no action* at all.
 * Break ties randomly (no modifiers)
+  * Roll extra D6 and put the die next to the first.
+  * Initiative order across all players is determined lexicographically.
+* Only roll first round. The initiative die(s) dictates the order for the rest of the combat.
 * May "delay" to lower initiative when it is your turn. Can keep delaying
   * The initiative on which you act becomes the new fixed initiative.
   * No interrupt - you go before or after a given combatant (Interpretation, not really stated how it works)
