@@ -6,9 +6,9 @@ A simple enough equation, but you are one of the few to have figured it out.
 You are a Data Spider, carefully weaving a complex net of data gathered from the most obscure sources.
 You might not be the sharpest dressed or have a single birr to your name, but you have information, and information is power.*
 
-* Starting Reputation modifier: 0
+* Starting Reputation modifier: +0
 * Key Attributes: Wits
-* Staring talent (Pick one):
+* Starting talent (Pick one):
   * Faction Standing
   * Judge of Character
   * Third Eye

@@ -11,6 +11,8 @@
 
 ## Skills
 
+Proficiency table
+
 | LEVEL | ABILITY     |
 | ----- | ----------- |
 | 0     | Untrained   |
@@ -20,11 +22,15 @@
 | 4     | Experienced |
 | 5     | Master      |
 
-| #6  | Outcome| Description |
-| --- | ---------------- | ---------------------------------------------------- |
-| 0   | Failure          | fail to reach your goal. Possible very negativ sideeffect - injury, alarm, battle, false information, get lost, loose item, opposite result |
-| 1,2 | Limited Success  | Succeed, but potential negative sideeffect - enemy suspects something, searches for you, take more time, limited info |
+Skill check outcome
+
+| #6  | Outcome          | Description                                                                                                                                        |
+| --- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0   | Failure          | fail to reach your goal. Possible very negativ sideeffect - injury, alarm, battle, false information, get lost, loose item, opposite result        |
+| 1,2 | Limited Success  | Succeed, but potential negative sideeffect - enemy suspects something, searches for you, take more time, limited info                              |
 | 3+  | Critical Success | unexpected, positive side - helping a friend, creating obstacle, wound enemy, gain modifier on immediate followup skill check, discover a weakness |
+
+Likelihood of at least one success
 
 | DICE | CHANCE | PRAYER |
 | :--: | :----: | :----: |
@@ -39,7 +45,43 @@
 |  9   |  81%   |  95%   |
 |  10  |  84%   |  96%   |
 
-PRAYING TO THE ICONS
+### Skill Check modifiers
+
+There are four things that can result in modifiers:
+
+* Your gear usually between +1 and +3.
+* The difficulty of your action
+* Prayer and preparatory prayer (page 55)
+* Assistance from others = +1/helper, max 3.
+  Helping slow action is a slow action
+  Helping normal or fast action is normal action
+* Command (Normal action regardless of command) = +1/success. Must execute the Commanded action to get bonus!
+
+You and the other PCs cannot help each other when you are
+acting simultaneously, that is when you are performing the
+same action at the same time – for example when you are trying
+to sneak past a guard (infiltration), or when you walk into
+an ambush (observation). Then you must all roll separately.
+If the outcome of your roll is really good, some skills allow
+you to share your success with a friend, who in turn does
+not have to roll. You can help someone this way even if that
+person has already failed her roll.
+
+DIFFICULTY MODIFIER
+
+* Child’s Play +3
+* Effortless +2
+* Easy +1
+* Normal 0
+* Demanding -1
+* Hard -2
+* Insane -3
+
+If your modifiers put you at zero dice or fewer, roll two
+dice – but to succeed, both have to show sixes. Hard, but not
+impossible!
+
+### PRAYING TO THE ICONS
 
 * reroll all dice not showing sixes (whether failed or not)
   * +1 Die if preparatory prayers to the specific Icon for that skill was made (+2 if in chapel)
@@ -98,54 +140,16 @@ You get a -1 for each of the following factors
 | SCIENCE       | Wits      | Messenger | from astrophysics and geochemistry to bionics and socio-arithmetics, calculate portal jump, find xenon gas pockets, understand an artifact           |
 | TECHNOLOGY    | Wits      | Messenger | handling machines, mechanics, electronics and xplosives, repair anything from a small gadget to a spaceship                                          |
 
-There are four things that can result in modifiers:
+### OPPOSED ROLLS
 
-* Your gear usually between +1 and +3.
-* The difficulty of your action
-* Prayer and preparatory prayer (page 55)
-* Assistance from others = +1/helper, max 3.
-  Helping slow action is a slow action
-  Helping normal or fast action is normal action
-* Command (Normal action regardless of command) = +1/success. Must execute the Commanded action to get bonus!
+Sometimes, a six will not be enough to pass a skill test.
+In these cases, you also have to beat an enemy’s roll.
+This is called an opposed roll.
+To win an opposed roll, you have to roll more sixes than your opponent.
+Each of your opponent’s  sixes cancels out one of yours.
+Only you (the attacker) can pray to the Icons on an opposed roll.
+Sometimes, you and your opponent will test different skills, sometimes the same.
+Opposed rolls are always used when you roll for manipulation or infiltration, and when someone uses these skills against you.
+The GM can also call for an opposed roll when he deems it appropriate, for example force vs force to resolve some armwrestling.
 
-You and the other PCs cannot help each other when you are
-acting simultaneously, that is when you are performing the
-same action at the same time – for example when you are trying
-to sneak past a guard (infiltration), or when you walk into
-an ambush (observation). Then you must all roll separately.
-If the outcome of your roll is really good, some skills allow
-you to share your success with a friend, who in turn does
-not have to roll. You can help someone this way even if that
-person has already failed her roll.
-
-DIFFICULTY MODIFIER
-
-* Child’s Play +3
-* Effortless +2
-* Easy +1
-* Normal 0
-* Demanding -1
-* Hard -2
-* Insane -3
-
-If your modifiers put you at zero dice or fewer, roll two
-dice – but to succeed, both have to show sixes. Hard, but not
-impossible!
-
-OPPOSED ROLLS
-
-Sometimes, a six will not be enough to pass a skill test. In
-these cases, you also have to beat an enemy’s roll. This is
-called an opposed roll. To win an opposed roll, you have to
-roll more sixes than your opponent. Each of your opponent’s
-sixes cancels out one of yours. Only you (the attacker) can
-pray to the Icons on an opposed roll. Sometimes, you and
-your opponent will test different skills, sometimes the same.
-Opposed rolls are always used when you roll for manipulation
-or infiltration, and when someone uses these skills
-against you. The GM can also call for an opposed roll when
-he deems it appropriate, for example force vs force to
-resolve some armwrestling.
-Combat: In combat (Chapter 5), an opposed roll only counts
-as an action for you (the attacker), not for your opponent
-(the defender).
+In combat (Chapter 5), an opposed roll only counts as an action for you (the attacker), not for your opponent (the defender).

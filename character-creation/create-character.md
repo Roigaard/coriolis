@@ -32,7 +32,7 @@ Then, each player creates a character for that group using the following steps:
 
 Lastly, choose a name.
 
-> Abdalar, Amirah, Havima, Iosop, Masruq, Sani, Asour, Barika, Fatma, Naim, Omran, Yaqub
+> Abdalar, Amirah, Havima, Iosop, Masruq, Sani, Asour, Barika, Fatma, Naim, Omran, Yaqub, Abbud, Ghazi, Inas, Jibril, Yarah, Zinah, Esam, Izzaldin, Minnah, Nada, Radwa, Ubaid
 
 
 
@@ -68,10 +68,10 @@ Concepts and subsconcepts:
 
 * [ARTIST](./character-concepts/artist.md) – Courtesan, Musician, Poet
 * [DATA SPIDER](./character-concepts/data-spider.md) – Analyst, Correspondent, Data Djinn
-* FUGITIVE – Criminal, Mystic, Revolutionary
-* NEGOTIATOR – Agitator, Diplomat, Peddler
-* OPERATIVE – Assassin, Guardsman/-woman, Spy
-* PILOT – Driver, Fighter Pilot, Freighter Pilot
+* [FUGITIVE](./character-concepts/fugitive.md) – Criminal, Mystic, Revolutionary
+* [NEGOTIATOR](./character-concepts/negotiator.md) – Agitator, Diplomat, Peddler
+* [OPERATIVE](./character-concepts/operative.md) – Assassin, Guardsman/-woman, Spy
+* [PILOT](./character-concepts/pilot.md) – Driver, Fighter Pilot, Freighter Pilot
 * TRAILBLAZER – Colonist, Prospector, Scout
 * PREACHER – Ascetic, Missionary, Prophet
 * SCIENTIST – Archaeologist, Medicurg, Technician

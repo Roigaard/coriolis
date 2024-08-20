@@ -6,7 +6,7 @@ You know that no culture is stronger than its art, and you intend to make sure t
 
 * Starting Reputation modifier: +1
 * Key Attributes: Empathy
-* Staring talent (Pick one):
+* Starting talent (Pick one):
   * Beautiful (BIO)
   * Defensive
   * Seductive
